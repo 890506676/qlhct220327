@@ -8,4 +8,4 @@
 
 ## 二、部署
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/AkashiCoin/qinglong-railway&envs=PORT&PORTDefault=5700&referralCode=IGBnmG)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/890506676/qinglong-railway&envs=PORT&PORTDefault=5700)
